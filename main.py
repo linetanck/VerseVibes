@@ -52,7 +52,7 @@ def bg_color(dict_values):
 
 def generate(bg_col1, bg_col2, bg_col3):
     run_id = uuid.uuid1()
-    print(f'Processing with ID: {run_id}')
+    print(f'Find your art with Processing ID: {run_id}')
 
     image = Image.new('RGB', (3500, 2500), (bg_col1,bg_col2,bg_col3))
     width, height = image.size
