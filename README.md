@@ -27,5 +27,5 @@ Despite that, the longer your input text is, the more colourful your output will
 **Karoline.Tanck@stud.leuphana.de**  
 *Leuphana Universität Lüneburg, Summer Semester 2023*  
 *Module „Agents and Interfaces“*  
-Seminar: Creative Applications of Python and Machine Learning, Sarah Haq  
+*Seminar: Creative Applications of Python and Machine Learning, Sarah Haq*  
 
