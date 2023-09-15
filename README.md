@@ -11,6 +11,7 @@ pip install -r requirements.txt
 Then run the `setup.py` file, which will download necessary packages for the sentiment analysis. 
 Two file directories (input & output) will be created. 
 When the setup complete message appears, you can get started. 
+The repository includes an example file containing the lyrics of All Too Well by Taylor Swift that can be used to firstly explore VerseVibe's capabilities. 
 
 ## Start Verse-Vibing  
 In the following, the input specifications will be explained.  
